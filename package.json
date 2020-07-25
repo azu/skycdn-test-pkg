@@ -1,6 +1,6 @@
 {
   "name": "skycdn-test-pkg",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "textlint util convert Paragraph Node to text with SourceMap.",
   "homepage": "https://github.com/azu/skycdn-test-pkg",
   "bugs": {
